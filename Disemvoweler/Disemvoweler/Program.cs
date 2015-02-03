@@ -21,7 +21,8 @@ namespace Disemvoweler
             Console.WriteLine("Disemvoweled: " );
             Console.WriteLine("Vowels Removed: " ); 
             // Return the Disemvoweled string as well for testing
-            return string.Empty;
+            return string Disemvoweler;
+                
         }
     }
 }
